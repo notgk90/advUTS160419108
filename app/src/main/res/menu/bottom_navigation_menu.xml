@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemDonasi"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="Donasi"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemFeed"
+        android:icon="@drawable/ic_baseline_dynamic_feed_24"
+        android:title="Feed"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemInbox"
+        android:icon="@drawable/ic_baseline_mail_24"
+        android:title="Inbox"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemProfile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"
+        app:showAsAction="always" />
+</menu>
